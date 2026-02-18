@@ -1,0 +1,8 @@
+Student Performance Report:
+
+{'name': 'Rahul', 'average': 58.33, 'status': 'Good', 'weak_subjects': []}
+{'name': 'Anita', 'average': 37.67, 'status': 'Needs Attention', 'weak_subjects': ['Math', 'Chemistry']}
+{'name': 'Karthik', 'average': 81.67, 'status': 'Good', 'weak_subjects': []}
+
+Students who need attention:
+['Anita']

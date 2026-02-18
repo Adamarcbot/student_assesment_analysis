@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Rahul",
+    "marks": {
+      "Math": 78,
+      "Physics": 42,
+      "Chemistry": 55
+    }
+  },
+  {
+    "name": "Anita",
+    "marks": {
+      "Math": 35,
+      "Physics": 40,
+      "Chemistry": 38
+    }
+  },
+  {
+    "name": "Karthik",
+    "marks": {
+      "Math": 88,
+      "Physics": 76,
+      "Chemistry": 81
+    }
+  }
+]
+
